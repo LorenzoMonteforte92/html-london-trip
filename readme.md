@@ -1,0 +1,1 @@
+Creazione di una pagina con immagini e dettagli di un viaggio a Londra
